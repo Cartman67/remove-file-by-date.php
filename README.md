@@ -1,2 +1,2 @@
 # remove-file-by-date.php
-rmfiles.php - finds files in a specific directory and its subdirectories and optionnaly deletes them
+remove-files-by-date.php - finds files in a specific directory and subdirectories that have been created (, modified or accessed) on a specific date and time, and optionnaly deletes them
